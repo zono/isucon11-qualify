@@ -1,0 +1,8 @@
+.cargo
+.bash_history
+.vim
+.viminfo
+.cache
+.wget-hsts
+*.swp
+pprof
