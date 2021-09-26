@@ -1,3 +1,0 @@
-name = "WWW-Form-UrlEncoded-XS"
-module_maker="ModuleBuildTiny"
-badges = ["travis"]

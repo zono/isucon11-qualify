@@ -1,9 +1,0 @@
-*~
-*.bak
-Makefile
-blib/
-inc/
-MANIFEST
-META.yml
-MYMETA.yml
-MYMETA.json

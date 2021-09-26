@@ -1,1 +1,0 @@
-{"version":"1.9022","dist":"Menlo-Legacy-1.9022","provides":{"Menlo::Legacy":{"version":"1.9022","file":"lib/Menlo/Legacy.pm"},"Menlo::CLI::Compat":{"file":"lib/Menlo/CLI/Compat.pm","version":"1.9022"}},"name":"Menlo::Legacy","pathname":"M/MI/MIYAGAWA/Menlo-Legacy-1.9022.tar.gz","target":"Menlo::CLI::Compat"}

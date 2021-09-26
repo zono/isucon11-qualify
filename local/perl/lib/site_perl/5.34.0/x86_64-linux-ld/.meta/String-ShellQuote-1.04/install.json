@@ -1,1 +1,0 @@
-{"target":"String::ShellQuote","pathname":"R/RO/ROSCH/String-ShellQuote-1.04.tar.gz","dist":"String-ShellQuote-1.04","version":"1.04","provides":{"String::ShellQuote":{"version":"1.04","file":"ShellQuote.pm"}},"name":"String::ShellQuote"}
