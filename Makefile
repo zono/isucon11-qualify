@@ -39,6 +39,12 @@ slow-off:
 slow-show:
 	sudo mysqldumpslow -s t $(SLOW_LOG) | head -n 20
 
+# pprof
+
+.PHONY: pprof
+pprof:
+	go tool pprof -http=0.0.0.0:8080 /home/isucon/webapp/go/isucondition http://localhost:6060/debug/pprof/profile?seconds=90
+
 # all
 
 .PHONY: all
